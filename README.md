@@ -1,1 +1,0 @@
-"# mentorebis-gamocda" 
